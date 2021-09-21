@@ -1,6 +1,7 @@
 # python
 
 make sure u have installed opencv
+
 pip install opencv-python
 
 
